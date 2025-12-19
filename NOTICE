@@ -1,0 +1,56 @@
+SynapseHRAG - Hierarchical RAG with Neural Activation
+Copyright (c) 2025 SynapseCorp
+
+================================================================================
+INTELLECTUAL PROPERTY NOTICE
+================================================================================
+
+This repository contains TWO types of components:
+
+1. MCP DYNAMIC BRIDGE (Open Source - AGPL v3)
+   ─────────────────────────────────────────
+   The following files are licensed under AGPL v3:
+   - src/McpAttributeReflector.php
+   - src/McpBridgeExtractor.php
+   - src/McpBridgeHandler.php
+
+   You may use, modify, and distribute these files under AGPL v3 terms.
+   See LICENSE-AGPL for full license text.
+
+2. HRAG ENGINE (Proprietary - Commercial License Required)
+   ────────────────────────────────────────────────────────
+   The HRAG Engine, including but not limited to:
+   - Hierarchical neural search algorithms
+   - Hebbian learning implementation
+   - 3-level cognitive architecture
+   - Intent detection and routing
+   - Spreading activation mechanisms
+
+   These components are NOT included in this repository and require
+   a commercial license for use.
+
+================================================================================
+PATENT PENDING
+================================================================================
+
+The following innovations are patent pending:
+
+1. "Hierarchical Retrieval-Augmented Generation with Neural Activation"
+   - 3-level cognitive architecture (Strategic/Tactical/Operational)
+   - Hebbian synaptic learning for RAG systems
+   - Intent-based hierarchical routing
+
+2. "Dynamic MCP Tool Registration System"
+   - Runtime tool registration via PHP 8 Attributes
+   - Zero-downtime tool updates for AI assistants
+   - WebSocket-based module-to-MCP bridge
+
+================================================================================
+CONTACT
+================================================================================
+
+Commercial Licensing: commercial@synapsecorp.eu
+Technical Support:    support@synapsecorp.eu
+General Inquiries:    contact@synapsecorp.eu
+
+Website: https://synapsecorp.eu
